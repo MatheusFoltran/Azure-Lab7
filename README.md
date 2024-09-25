@@ -1,5 +1,7 @@
 # Segurança e Identidade na Azure
 
+## Entra ID
+
 O **Entra ID** é o novo nome do **Azure Active Directory (Azure AD)**, a solução de gerenciamento de identidades e acessos da Microsoft. Ele é uma plataforma completa que oferece recursos de autenticação, autorização e gerenciamento de identidades para proteger usuários, dispositivos e aplicações, tanto em ambientes de nuvem como on-premise.
 
 A mudança para o nome **Entra ID** reflete o compromisso da Microsoft com uma visão mais ampla e integrada de segurança de identidade dentro do ecossistema da nuvem. O Entra ID faz parte da **família Microsoft Entra**, que engloba várias soluções de identidade e segurança, permitindo que as empresas protejam melhor suas infraestruturas e gerenciem acessos de forma mais eficiente.
