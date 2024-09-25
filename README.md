@@ -45,17 +45,17 @@ O **Microsoft Defender for Cloud** é uma solução abrangente de gerenciamento 
 
 ### Principais Funcionalidades do Defender for Cloud
 
-### Gerenciamento de Postura de Segurança
+#### Gerenciamento de Postura de Segurança
 O **Defender for Cloud** oferece uma visão unificada da postura de segurança de uma organização em toda a sua infraestrutura, seja no Azure, em ambientes locais ou até em outras nuvens públicas. Ele ajuda a identificar configurações incorretas e vulnerabilidades de segurança, além de fornecer recomendações de correção para mitigar riscos.
 
-### Proteção Contra Ameaças
+#### Proteção Contra Ameaças
 O **Microsoft Defender for Cloud** detecta ameaças avançadas e atividades suspeitas em máquinas virtuais, bancos de dados, contêineres, redes e outras cargas de trabalho. Ele usa machine learning e inteligência de ameaças global para identificar anomalias e comportamentos maliciosos, notificando os administradores para que possam tomar as ações apropriadas.
 
-### Conformidade e Governança
+#### Conformidade e Governança
 O serviço ajuda a garantir que a organização esteja em conformidade com regulamentações e padrões de segurança, como GDPR, ISO 27001 e outros. Ele oferece um painel de conformidade, que mostra o status de aderência às diretrizes de segurança e recomenda ações para melhorar a conformidade.
 
-### Integração Multi-Nuvem e Híbrida
+#### Integração Multi-Nuvem e Híbrida
 O **Defender for Cloud** suporta a integração com ambientes multi-nuvem, como AWS e Google Cloud, além de infraestrutura local, oferecendo uma solução unificada para gerenciar a segurança em diferentes plataformas.
 
-### Automação e Remediação
+#### Automação e Remediação
 A solução também permite automatizar respostas a incidentes de segurança, oferecendo mecanismos de remediação automática para corrigir problemas com rapidez. Isso pode incluir o bloqueio de IPs maliciosos, aplicação de patches de segurança e ajustes de configurações de firewall.
