@@ -59,11 +59,3 @@ O **Defender for Cloud** suporta a integração com ambientes multi-nuvem, como 
 
 ### Automação e Remediação
 A solução também permite automatizar respostas a incidentes de segurança, oferecendo mecanismos de remediação automática para corrigir problemas com rapidez. Isso pode incluir o bloqueio de IPs maliciosos, aplicação de patches de segurança e ajustes de configurações de firewall.
-
-### Benefícios
-
-- **Detecção e Resposta a Ameaças**: Identifica atividades suspeitas e responde automaticamente a ameaças em tempo real.
-- **Gerenciamento de Postura de Segurança**: Fornece recomendações para melhorar a segurança da infraestrutura.
-- **Conformidade**: Auxilia no cumprimento de normas regulatórias e melhores práticas de segurança.
-- **Visão Multi-Nuvem e Híbrida**: Centraliza a segurança de diferentes plataformas em um único painel.
-- **Automação**: Acelera a correção de problemas e minimiza a intervenção manual.
