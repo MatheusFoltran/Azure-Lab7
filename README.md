@@ -1,3 +1,5 @@
+# Segurança e Identidade na Azure
+
 O **Entra ID** é o novo nome do **Azure Active Directory (Azure AD)**, a solução de gerenciamento de identidades e acessos da Microsoft. Ele é uma plataforma completa que oferece recursos de autenticação, autorização e gerenciamento de identidades para proteger usuários, dispositivos e aplicações, tanto em ambientes de nuvem como on-premise.
 
 A mudança para o nome **Entra ID** reflete o compromisso da Microsoft com uma visão mais ampla e integrada de segurança de identidade dentro do ecossistema da nuvem. O Entra ID faz parte da **família Microsoft Entra**, que engloba várias soluções de identidade e segurança, permitindo que as empresas protejam melhor suas infraestruturas e gerenciem acessos de forma mais eficiente.
@@ -35,11 +37,11 @@ Além do Entra ID, a Microsoft expandiu a linha **Entra** com outras soluções 
 - **Microsoft Entra Permissions Management**: Ferramenta de gerenciamento de permissões, que permite ter controle e visibilidade sobre permissões e acessos dentro de ambientes multi-nuvem.
 - **Microsoft Entra Verified ID**: Uma solução de identidade descentralizada, que permite a emissão, verificação e validação de identidades digitais sem a necessidade de senhas.
 
-# Microsoft Defender for Cloud
+## Microsoft Defender for Cloud
 
 O **Microsoft Defender for Cloud** é uma solução abrangente de gerenciamento de postura de segurança e proteção contra ameaças para ambientes de nuvem híbrida e multi-nuvem. Ele foi projetado para ajudar as organizações a fortalecer suas posturas de segurança, detectar e responder a ameaças, além de manter a conformidade com normas de segurança.
 
-## Principais Funcionalidades do Defender for Cloud
+### Principais Funcionalidades do Defender for Cloud
 
 ### Gerenciamento de Postura de Segurança
 O **Defender for Cloud** oferece uma visão unificada da postura de segurança de uma organização em toda a sua infraestrutura, seja no Azure, em ambientes locais ou até em outras nuvens públicas. Ele ajuda a identificar configurações incorretas e vulnerabilidades de segurança, além de fornecer recomendações de correção para mitigar riscos.
@@ -56,7 +58,7 @@ O **Defender for Cloud** suporta a integração com ambientes multi-nuvem, como 
 ### Automação e Remediação
 A solução também permite automatizar respostas a incidentes de segurança, oferecendo mecanismos de remediação automática para corrigir problemas com rapidez. Isso pode incluir o bloqueio de IPs maliciosos, aplicação de patches de segurança e ajustes de configurações de firewall.
 
-## Benefícios
+### Benefícios
 
 - **Detecção e Resposta a Ameaças**: Identifica atividades suspeitas e responde automaticamente a ameaças em tempo real.
 - **Gerenciamento de Postura de Segurança**: Fornece recomendações para melhorar a segurança da infraestrutura.
